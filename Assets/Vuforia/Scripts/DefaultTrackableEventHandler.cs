@@ -73,7 +73,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     protected virtual void OnTrackingFound()
     {
         //time scale on
-        //Time.timeScale = 1f;
+        Time.timeScale = 1f;
 
         //Текущий го который проверяется
         GameObject curGO = new GameObject();
@@ -136,7 +136,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         var animatorComponents = GetComponentInChildren<Animator>(true);
 
         //time scale off
-        //Time.timeScale = 0f;
+        Time.timeScale = 0f;
         objName = transform.GetChild(0).name;
 
         Debug.Log(TakeAniTime());
