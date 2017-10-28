@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arHack", "arHack.csproj", "{3C4A741C-2ACA-6A76-1197-A5B6629BF58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arHack.Editor", "arHack.Editor.csproj", "{5A78C7A6-34DC-6097-23EE-BEE73332F543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4A741C-2ACA-6A76-1197-A5B6629BF58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4A741C-2ACA-6A76-1197-A5B6629BF58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4A741C-2ACA-6A76-1197-A5B6629BF58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4A741C-2ACA-6A76-1197-A5B6629BF58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A78C7A6-34DC-6097-23EE-BEE73332F543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A78C7A6-34DC-6097-23EE-BEE73332F543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A78C7A6-34DC-6097-23EE-BEE73332F543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A78C7A6-34DC-6097-23EE-BEE73332F543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

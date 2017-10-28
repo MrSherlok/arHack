@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="15_bathroom" size="1.000000 0.527489" />
+    <ImageTarget name="14_finish_book_one" size="1.000000 1.014118" />
+    <ImageTarget name="13_crocodile" size="1.000000 0.506619" />
+    <ImageTarget name="12_love_eys" size="1.000000 0.505376" />
+    <ImageTarget name="11_fish" size="1.000000 1.018059" />
+    <ImageTarget name="10_morg" size="1.000000 0.598639" />
+    <ImageTarget name="9_halicopter" size="1.000000 0.581486" />
+    <ImageTarget name="8_duplo" size="1.000000 0.627388" />
+    <ImageTarget name="7_diving" size="1.000000 0.530303" />
+    <ImageTarget name="6_lags" size="1.000000 0.515178" />
+    <ImageTarget name="5_bag" size="1.000000 0.507696" />
+    <ImageTarget name="4_playing" size="1.000000 1.030125" />
+    <ImageTarget name="3_playing" size="1.000000 1.023171" />
+    <ImageTarget name="2_Swim" size="1.000000 0.540609" />
+    <ImageTarget name="1_FrontBook" size="1.000000 1.056471" />
+    <ImageTarget name="0_frontBook" size="1.000000 1.024740" />
+  </Tracking>
+</QCARConfig>
